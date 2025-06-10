@@ -6,13 +6,19 @@ Computer Vision ML Project
 
 ## 📁 Project Structure
 
-.
-├── notebooks/ # Jupyter notebooks for experiments
+├── notebooks/ # Jupyter notebooks for experiments/
+
 ├── scripts/ 
+
 ├── environment/ # Conda environment setup files
+
+
 │ └── install_miniconda.sh
+
 ├── docs/ 
+
 ├── README.md
+
 └── .gitignore
 
 
