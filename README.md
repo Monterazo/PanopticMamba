@@ -33,7 +33,7 @@ cd your-repo
 Install Miniconda (Linux_64 only):
 
 
-bash environment/install_miniconda.sh
+bash environment/install_miniconda_LIN64.sh
 
 📄 Paper
 You can find the Overleaf-exported PDF of the paper in the docs/ folder.
