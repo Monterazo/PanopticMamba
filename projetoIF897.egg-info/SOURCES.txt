@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.cfg
+projetoIF897.egg-info/PKG-INFO
+projetoIF897.egg-info/SOURCES.txt
+projetoIF897.egg-info/dependency_links.txt
+projetoIF897.egg-info/requires.txt
+projetoIF897.egg-info/top_level.txt

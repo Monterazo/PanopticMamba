@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+maintainers = [
+	{name = "Enzo Gurgel Bissoli", email = "egb2@cin.ufpe.br"},
+	{name = "Lucal Monterazzo", email = "lucas@cin.ufpe.br"}
+]
+name = "projetoIF897"
+version = "1.0.0"
+dependencies = [
+	"torch",
+	"torchvision",
+	"numpy",
+	"scikit-learn",
+	"matplotlib",
+	"plotnine",
+	"scipy",
+	"seaborn",
+	"pillow",
+	"tiffile",
+	"imagecodecs"
+]
+description = "mamba for vision"
+readme = "Readme.md"
+
+[tool.setuptools.packages.find]
+where = ["."]
